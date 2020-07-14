@@ -6,7 +6,13 @@ comments: false
 ---
 
 <form action="https://formspree.io/{{site.formspree}}" method="POST">    
-<p class="mb-4">Please send your message to me. I will reply as soon as possible!</p>
+<p class="mb-4">Please send your message to me. I will reply as soon as possible! <br>
+Social pages:
+<a target="_blank" href="https://github.com/mehrdad-dev" class="btn-sm"><i class="fab fa-github"></i></a> 
+<a target="_blank" href="https://twitter.com/mehrdad_dev" class="btn-sm"><i class="fab fa-twitter"></i></a> 
+<a target="_blank" href="https://instagram.com/mehrdad.dev" class="btn-sm"><i class="fab fa-instagram"></i></a> 
+<a target="_blank" href="https://www.linkedin.com/in/mehrdad-mohammadian-432a5b146" class="btn-sm"><i class="fab fa-linkedin-in"></i></a>
+</p>
 
 <div class="form-group row">
 <div class="col-md-6">
@@ -18,4 +24,5 @@ comments: false
 </div>
 <textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
 <input class="btn btn-dark" type="submit" value="Send">
+
 </form>
