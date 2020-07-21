@@ -16,7 +16,7 @@ Hi, I am currently a bachelor's degree student in computer engineering.<br>
 I love AI, art and music and for now I'm trying to be a machine learning engineer in the future.<br>
 I try to develop everything around me as much as I can. <br>
 So, Get up and let's develop! 
-<img class="about_gif" src="https://i.gifer.com/YzDb.gif" >
+<img class="about_gif" src="assets/gifs/sonic.gif" >
 </p>
 
 <p>
@@ -171,7 +171,7 @@ for (i = 0; i < coll.length; i++) {
 <pre> </pre>
 <a target="_blank" href="http://127.0.0.1:4000/contact" class="btn btn-dark"> Contact me &rarr;</a>
 
-<a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/" class="btn btn-dark"> Donwload resume with more details &rarr;</a>
+<a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/" class="btn btn-dark"> Donwload resume &rarr;</a>
 
 </div>
 <!-- end btn group -->
