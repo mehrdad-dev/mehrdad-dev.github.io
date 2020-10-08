@@ -243,7 +243,7 @@ img:hover {
         font-size: 18px;
         position: relative;
       }
-      a:hover{
+      a:hover {
         color: black;
       }
     }
@@ -391,6 +391,8 @@ img:hover {
   margin-top: 120px;
   img.newsletter-logo {
     max-height: 70px;
+    margin-right: -20px;
+    margin-left: 10px;
   }
   input {
     border: 1px solid transparent;
@@ -669,7 +671,7 @@ body.active-side {
     grid-template-columns: 1fr 1fr;
   }
   .newsletter img.newsletter-logo {
-    max-height: 50px;
+    max-height: 43px;
     float: left;
   }
 }
