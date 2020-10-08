@@ -6,12 +6,12 @@ description: "
 Let's Develop!
 Personal Website
 Mehrdad Mohammadian | مهرداد محمدیان
-Find me as @mehrdad.dev
 "
 logo: "assets/images/logo.png"
 favicon: "assets/images/logo.png"
+url: mehrdad-dev.github.io
 baseurl: ''
-google_analytics: "UA-xxxxxxxx-1"
+# google_analytics: "UA-xxxxxxxx-1"
 disqus: "https-www-mehrdad-dev-github-io"
 mailchimp-list: "https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b"
 include: ["_pages"]
@@ -22,14 +22,14 @@ email: dev.mehrdad@gmail.com
 
 authors:
   mehrdad:
-    name: mehrdad
+    name: Mehrdad Mohammadian
     display_name: mehrdad.dev
     gravatar: 07c053a3c1a74394655df999914c666b # gravatar hash
     email: dev.mehrdad@gmail.com
-    web: https://www.mehrdad-dev.github.io/about
+    web: https://www.mehrdad-dev.github.io
     twitter: https://twitter.com/mehrdad_dev
     instagram: https://instagram.com/mehrdad.dev
-    linkedin: https://www.linkedin.com/in/mehrdad-mohammadian-432a5b146
+    linkedin: https://www.linkedin.com/in/mehrdad-mohammadian-
     github: https://github.com/mehrdad-dev
     description: "Mehrdad Mohammadian | مهرداد محمدیان"
 
@@ -62,9 +62,9 @@ kramdown:
     disable: true
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "enabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
+adsense: "disabled"
+# adsense-data-ad-client: "ca-pub-3412143450191416"
+# adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "enabled"
