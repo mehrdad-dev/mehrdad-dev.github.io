@@ -5,7 +5,7 @@ permalink: /projects
 comments: false
 imageshadow: true
 ---
-
+<!-- 
 <html>
 <body>
 
@@ -47,4 +47,4 @@ imageshadow: true
 
 </div>
 </body>
-</html>
+</html> -->
