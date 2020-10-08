@@ -59,18 +59,23 @@
     <nav id="menu">
         <ul>
             <h3>
-            <div style="text-align:left">
-            <a href="{{ site.baseurl }}/">
-                <img style="width: 50px; margin-left: -20px; margin-right: -10px;" src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
-            </a>
-            Mehrdad.dev
-            </div>
-        </h3>
+                <div style="text-align:left">
+                    <a href="{{ site.baseurl }}/">
+                        <img style="width: 50px; margin-left: -20px; margin-right: -10px;"
+                            src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
+                    </a>
+                    Mehrdad.dev
+                </div>
+            </h3>
 
-            <li><a href="{{ site.baseurl }}/">Blog</a></li>
-            <li><a href="{{ site.baseurl }}/about">About</a></li>
-            <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
-            <li><a href="{{ site.baseurl }}/projects">Projects </a></li>
+            <li><a href="{{ site.baseurl }}/"><img style="width: 28px; margin-bottom: 6px; margin-right: 6px;"
+                        src="https://img.icons8.com/fluent/96/000000/typewriter-with-paper.png" />Blog</a></li>
+            <li><a href="{{ site.baseurl }}/about"><img style="width: 28px; margin-bottom: 6px; margin-right: 6px;"
+                        src="https://img.icons8.com/fluent/48/000000/administrator-male.png" />About</a></li>
+            <li><a href="{{ site.baseurl }}/contact"> <img style="width: 28px; margin-bottom: 6px; margin-right: 6px;"
+                        src="https://img.icons8.com/fluent/96/000000/mailbox-with-letter.png" />Contact</a></li>
+            <li><a href="{{ site.baseurl }}/projects"><img style="width: 28px; margin-bottom: 6px; margin-right: 6px;"
+                        src="https://img.icons8.com/fluent/96/000000/console.png" />Projects </a></li>
             <!-- <li><a href="{{ site.baseurl }}/projects">Projects <span class="badge badge-primary">Comming soon</span> </a></li>      -->
         </ul>
     </nav>
@@ -111,8 +116,8 @@
             <!-- Newsletter
     ================================================== -->
             <div class="newsletter text-center">
-                <h4><img src="{{ site.baseurl }}/{{ site.logo }}" class="newsletter-logo"
-                        alt="{{site.title}}"> &nbsp; Never miss a <b>post!</b></h4>
+                <h4><img src="{{ site.baseurl }}/{{ site.logo }}" class="newsletter-logo" alt="{{site.title}}"> &nbsp;
+                    Never miss a <b>post!</b></h4>
                 <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form"
                     class="wj-contact-form validate" target="_blank" novalidate>
                     <div class="mc-field-group d-inline-flex">
