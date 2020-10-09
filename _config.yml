@@ -12,12 +12,11 @@ favicon: "assets/images/logo.png"
 baseurl: ''
 # google_analytics: "UA-xxxxxxxx-1"
 disqus: "https-www-mehrdad-dev-github-io"
-mailchimp-list: "https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b"
+mailchimp-list: "https://github.us2.list-manage.com/subscribe/post?u=e2b1b19b484d54a68a57c1945&amp;id=e971ad7c22"
 include: ["_pages"]
 permalink: /:categories/:title/
 formspree: mzbjjnev
 email: dev.mehrdad@gmail.com
-
 
 authors:
   mehrdad:
