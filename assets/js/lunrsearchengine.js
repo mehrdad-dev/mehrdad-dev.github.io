@@ -21,7 +21,14 @@ var documents = [{% for page in site.pages %}{% if page.url contains '.xml' or p
     "body": "{{ page.date | date: "%Y/%m/%d" }} - {{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
     }{% if forloop.last %}{% else %}, {% endif %}{% endfor %}];
 
+// var lunr = require('./lunr');
+// require('./lunr.stemmer.support')(lunr);
+// require('./lunr.ar')(lunr);
+// require('./lunr.multi')(lunr);
+
 var idx = lunr(function () {
+    // this.use(lunr.multiLanguage('en', 'ar'));
+    
     this.ref('id')
     this.field('title')
     this.field('body')
@@ -30,6 +37,7 @@ var idx = lunr(function () {
         this.add(doc)
     }, this)
 });
+
 function lunr_search(term) {
     document.getElementById('lunrsearchresults').innerHTML = '<ul></ul>';
     if(term) {
