@@ -883,56 +883,7 @@ body.active-side {
 }
 
 ////////////////////////////////////////////
-.project-card {
-  box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.2);
-  transition: 0.3s;
-  background-color: white;
-  // margin-top: -20px;
-  width: 85%;
-  border-radius: 15px;
-}
 
-.project-card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
-}
-
-.project-card-img {
-  //   width: 80px;
-  height: 130px;
-  border-radius: 15px 15px 0 0;
-}
-
-.container-column {
-  float: left;
-  width: 40%;
-  margin-right: -55px;
-  margin-top: -40px;
-  padding: 50px 15px;
-}
-
-.container_card {
-  margin-top: 10px;
-  margin-left: 20px;
-  margin-right: 20px;
-  padding: 2px 0px;
-}
-
-.project-btn {
-  border: none;
-  width: 100px;
-  // margin-top: 1px;
-  margin-bottom: 10px;
-  height: 30px;
-  border-radius: 50px;
-  font-size: 14px;
-  color: #333;
-  background-color: rgb(243, 243, 243);
-}
-
-.project-btn:hover {
-  background-color: #555555;
-  color: white;
-}
 
 .page-description {
   text-align: left;
@@ -956,3 +907,5 @@ body.active-side {
   // left: 45%;
   // z-index: 100;
 }
+
+
