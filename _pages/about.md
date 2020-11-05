@@ -16,7 +16,7 @@ imageshadow: true
 <a target="_blank" href="https://www.linkedin.com/in/mehrdad-mohammadian-" class="btn-sm"><i class="fab fa-linkedin-in"></i></a>
 </div>
 
-<p>
+<p style="text-align:justify; text-justify:none;">
 Hi, I am currently a bachelor's degree student in computer engineering.<br>
 I love AI, art and music and for now I'm trying to be a machine learning engineer in the future.<br>
 I try to develop everything around me as much as I can. <br>
@@ -37,7 +37,7 @@ So, Get up and let's develop!
 <img class="sub_section_icon"  src="assets/images/profile.svg" alt="profile | شبکه اجتماعی پروفایل" width="25" height="25" >
 <a target="_blank" href="http://profile.ir"> Profile.ir  </a>
 
-<p style="margin-top: -30px; margin-left: 65px;" > <strong>Date:</strong> Apr 2019-Mar 2020 . 1 year <br> <strong>Job position:</strong> Junior Golang backend developer <br> <strong>Description:</strong> Develop backend with microservice architecture with Golang </p>
+<p style="margin-top: -30px; margin-left: 65px; text-align:justify; text-justify:none;" > <strong>Date:</strong> Apr 2019-Mar 2020 . 1 year <br> <strong>Job position:</strong> Junior Golang backend developer <br> <strong>Description:</strong> Develop backend with microservice architecture with Golang </p>
 
 </p>
 </div>
@@ -49,7 +49,7 @@ So, Get up and let's develop!
 <img class="sub_section_icon"  src="assets/images/kimiyaindustry.png" alt="kimiya industry | کیمیا صنعت" width="25" height="25" >
 <a target="_blank" href="http://kimiyaindustry.com">Kimiyaindustry.com </a>
 
-<p style="margin-top: -30px; margin-left: 65px;" ><strong>Date:</strong> Sep 2018-Apr 2019 . 8 month  <br> <strong>Job position:</strong> Computer Technician <br> <strong>Description:</strong> Website and content management </p>
+<p style="margin-top: -30px; margin-left: 65px; text-align:justify; text-justify:none;" ><strong>Date:</strong> Sep 2018-Apr 2019 . 8 month  <br> <strong>Job position:</strong> Computer Technician <br> <strong>Description:</strong> Website and content management </p>
 
 </p>
 </div>
@@ -74,7 +74,7 @@ So, Get up and let's develop!
 <a target="_blank" href="http://mshdiau.ac.ir">Islamic Azad University</a>
 
 
-<p style="margin-top: -30px; margin-left: 65px;" ><strong>Date:</strong> 2018-Now <br> <strong>Degree:</strong> Bachelor's degree<br> <strong> Field of study:</strong> Computer Engineering</p>
+<p style="margin-top: -30px; margin-left: 65px; text-align:justify; text-justify:none;" ><strong>Date:</strong> 2018-Now <br> <strong>Degree:</strong> Bachelor's degree<br> <strong> Field of study:</strong> Computer Engineering</p>
 
 </p>
 </div>

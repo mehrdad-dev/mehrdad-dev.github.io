@@ -53,7 +53,7 @@ imageshadow: true
     <a href="https://mehrdad-dev.github.io/ml-andrew-ng/" target="_blank">
     <div class="card">
       <img style="border-radius:10px;" src="assets/images/ml-andrew-github-cover.jpg">
-      <p align="left" style="margin-top:10px; margin-left:15px; font-weight: bold;">
+      <p align="left" style="margin-top:10px; margin-left:15px; font-weight: bold;    text-align:justify; text-justify:none;">
       Translating Stanford University Machine Learning Course to Persian 🤖
       </p>
     </div>
@@ -64,7 +64,7 @@ imageshadow: true
     <a href="https://github.com/mehrdad-dev/Jami" target="_blank">
     <div class="card">
       <img style="border-radius:10px; height:181px" src="assets/images/Jami.jpg">
-      <p align="left" style="margin-top:10px; margin-left:15px; font-weight: bold;">
+      <p align="left" style="margin-top:10px; margin-left:15px; font-weight: bold;    text-align:justify; text-justify:none;">
       Jami a simple cross platform GUI for play some musical instrument 
       </p>
     </div>
@@ -75,7 +75,7 @@ imageshadow: true
     <a href="https://github.com/mehrdad-dev/kaleh-sabzehi" target="_blank">
     <div class="card">
       <img style="border-radius:10px; height:178px" src="assets/images/Sabzeh.png">
-      <p align="left" style="margin-top:10px; margin-left:15px; font-weight: bold;">
+      <p align="left" style="margin-top:10px; margin-left:15px; font-weight: bold;     text-align:justify; text-justify:none;">
       Effect sabzeh norooz with face detection 
       </p>
     </div>
