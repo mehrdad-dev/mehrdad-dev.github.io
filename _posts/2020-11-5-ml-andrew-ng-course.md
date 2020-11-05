@@ -18,7 +18,7 @@ description: "دوره یادگیری ماشین دانشگاه استنفورد
 <h3 dir="rtl" align="right"> درباره دوره</h3>
 <p dir="rtl" align="right">
 این دوره رایگان برای اولین بار در سال ۲۰۱۱ میلادی در وب سایت
-<a href="https://www.ml-class.org/">ml-class </a> منتشر شد.
+<a href="https://www.ml-class.org/">ml-class</a> منتشر شد.
 و پس از آن به وب سایت کورسرا منتقل شد،
 به طوری که در این سال ها به محبوبیت زیادی بین جامعه هوش مصنوعی دست یافته است و القابی مثل انجیل ماشین لرنینگ را به آن داده اند، چرا که مفاهیم پایه ای یادگیری ماشین را به خوبی شرح داده است.
 <br>
@@ -32,7 +32,7 @@ description: "دوره یادگیری ماشین دانشگاه استنفورد
 این دوره از ۱۱ هفته تشکیل شده است که به طور کلی موارد زیر را پوشش می‌دهد:
 </p>
 
-1. Linear Regression One Variable/Multiple Variables
+1. Linear Regression  with One Variable/Multiple Variables
 2. Linear Algebra Review
 3. Octave/Matlab Tutorial
 4. Logistic Regression
@@ -61,7 +61,7 @@ description: "دوره یادگیری ماشین دانشگاه استنفورد
 <a href="https://mehrdad-dev.github.io/ml-andrew-ng"> رفتن به وب سایت </a>
 <br>
 برای مشارکت در این ترجمه گروهی در کار هایی از قبیل موارد زیر به 
-<a href="https://github.com/mehrdad-dev/ml-andrew-ng-code"> صفحه گیت هاب </a>
+<a href="https://github.com/mehrdad-dev/ml-andrew-ng-code">صفحه گیت هاب</a>
 پروژه مراجعه کنید:
 <br>
 - کامل تر کردن محتوای مطالب
