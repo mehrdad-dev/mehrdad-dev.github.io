@@ -9,7 +9,7 @@ imageshadow: true
 
 <div style="text-align:center">
 <img class="aboutavatar" src="assets/images/about.jpg" alt="Mehrdad Mohammadian,Mehrdad.dev, مهرداد محمدیان," color="white">
-<p  style="font-weight: bolder; font-size: 21px; margin-top:5px;margin-bottom:5px;"> Mehrdad Mohammadian</p>  
+<p  style="font-weight: bolder; font-size: 21px; margin-top:5px;margin-bottom:5px;text-align:center;"> Mehrdad Mohammadian</p>  
 <a target="_blank" href="https://github.com/mehrdad-dev" class="btn-sm"><i class="fab fa-github"></i></a> 
 <a target="_blank" href="https://twitter.com/mehrdad_dev" class="btn-sm"><i class="fab fa-twitter"></i></a> 
 <a target="_blank" href="https://instagram.com/mehrdad.dev" class="btn-sm"><i class="fab fa-instagram"></i></a> 
