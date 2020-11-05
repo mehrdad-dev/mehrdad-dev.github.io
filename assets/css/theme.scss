@@ -3,6 +3,7 @@
 
 $brown: #b59f62;
 $teal: #4531ba;
+$atag: #003cff;
 $black: #111;
 $primary: $teal;
 $dark: $black;
@@ -33,7 +34,7 @@ body {
   background: #f4f4f4;
 }
 a {
-  color: darken($primary, 24%);
+  color: $atag;
 }
 img {
   max-width: 100%;
