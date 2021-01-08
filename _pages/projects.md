@@ -50,6 +50,17 @@ imageshadow: true
 
 <div class="row">
   <div class="column">
+    <a href="https://sklearn.ir" target="_blank">
+    <div class="card">
+      <img style="border-radius:10px;" src="assets/images/scikit-learn-logo-notext.png">
+      <p align="left" style="margin-top:10px; margin-left:15px; font-weight: bold;    text-align:justify; text-justify:none;">
+      Translate to Persian and Create Persian community of Scikit-learn
+      </p>
+    </div>
+    </a>
+  </div>
+
+  <div class="column">
     <a href="https://mehrdad-dev.github.io/ml-andrew-ng/" target="_blank">
     <div class="card">
       <img style="border-radius:10px;" src="assets/images/ml-andrew-github-cover.jpg">
