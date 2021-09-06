@@ -1,0 +1,68 @@
+# section information
+section:
+  name: Industry
+  id: industry
+  template: sections/experiences.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Kimiya industry
+    url: "http://kimiyaindustry.com/"
+    location: Iran - Mashhad
+    overview: Manufacturer of traffic signs and municipal services
+  positions:
+  - designation: Computer Technician
+    start: Sep 2018
+    end: Apr 2019
+    responsibilities:
+    - Website maintenance and admin
+    - Content Creator - Blog, PhotoShop, Wordpress
+
+- company:
+    name: Profile.ir
+    url: "https://profile.ir"
+    location: Iran - Mashhad
+    # company overview
+    overview: Profile.ir social network, a Social network for Iranian professionals. </br> Implementation of infrastructure services using micro-service architecture,
+  positions:
+  - designation: Junior Backend Developer
+    start: Apr 2019
+    end: Mar 2020
+    responsibilities:
+    - Implement and design micoservice
+    - Working with Tools such as Golang, Python, Mongo DB, Elastic Search DB, Web Scraping, Docker, Linux, Git
+
+- company:
+    name: Veerasense
+    url: "https://Veerasense.com"
+    location: Iran - Mashhad
+    # company overview
+    overview: Veerasense is a tech company that applys Artificial Intelligence and Machine Learning to solve real-world problems.
+  positions:
+  - designation: Computer Vision Intern
+    start: Aug 2021
+    # end: Mar 2020
+    responsibilities:
+    -  Research in object detection networks such as YOLO, SSD, CenterNet
+    - Tools Python, Colab
+
+
+# - company:
+#     name: Intern Counting Company (ICC).
+#     url: "https://www.example.com"
+#     location: Intern Land
+#     overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+#   positions:
+#   - designation: Intern
+#     start: Jun 2015
+#     end: Jan 2016
+#     responsibilities:
+#     - Count lost of interns.
+#     - Count more interns.
+#     - Count me as an intern.

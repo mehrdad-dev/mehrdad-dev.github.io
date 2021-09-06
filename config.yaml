@@ -1,0 +1,107 @@
+baseURL: https://mehrdad-dev.github.io
+
+languageCode: en-us
+title: "Mehrdad Mohammadian"
+theme: "toha"
+
+# Manage languages
+# For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
+languages:
+  en:
+    languageName: English
+    weight: 1
+  # fa:
+  #   languageName: فارسی
+  #   weight: 2
+
+# Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
+# DefaultContentLanguage: bn
+
+# Allow raw html in markdown file
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+# At least HTML and JSON are required for the main HTML content and
+# client-side JavaScript search
+outputs:
+  home:
+  - HTML
+  - RSS
+  - JSON
+
+# Enable Google Analytics
+googleAnalytics: UA-122321624-2
+
+# Enable global emoji support
+enableEmoji: true
+
+# Site parameters
+params:
+  # Background image of the landing page
+  background: /images/site/background.jpg
+
+  # Provide logos for your site. The inverted logo will be used in the initial
+  # transparent navbar and the main logo will be used in the non-transparent navbar.
+  logo:
+    main: /images/site/main-logo.png
+    inverted: /images/site/inverted-logo.png
+    favicon: /images/site/favicon.png
+
+  # GitHub repo of your site
+  gitRepo: https://github.com/mehrdad-dev/mehrdad-dev.github.io
+  # Default branch of your Git repo
+  gitBranch: source
+
+  # Configure various features of this theme
+  features:
+    # Enable and configure portfolio
+    portfolio:
+      enable: true
+    # Enable and configure blog posts
+    blog:
+      enable: true
+    # Enable & configure "Notes" features
+    notes:
+      enable: false
+
+
+  # specify whether you want to show Table of Contents in reading page
+  enableTOC: true
+
+  # If you want to use different country flag for a language, specify them here.
+  flagOverwrites:
+  - languageCode: fa
+    countryCode: ir
+
+  # Provide footer configuration.
+  footer:
+    enable: true
+    # You can provide your custom footer template using this option.
+    # Put your template in "layouts/partials" folder of your repo.
+    template: footer.html
+    # Show/hide navigation in the footer. Default is "true".
+    navigation:
+      enable: true
+    # Show/hide "Contact Me" section in the footer. Default is "true".
+    contactMe:
+      enable: true
+    # Show/hide credentials section in the footer. Default is "true".
+    credentials:
+      enable: true
+
+    # Show/hide newsletter section in the footer. Default is "true".
+    # Currently, it supports "mailchimp".
+    newsletter:
+      enable: true
+      provider: mailchimp
+      mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
+
+    # Show/hide disclaimer notice in the footer. Default is "false".
+    disclaimer:
+      enable: true

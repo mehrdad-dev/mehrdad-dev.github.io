@@ -1,0 +1,56 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Machine Learning
+  filter: "machine-learning"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: Scikit-learn Persian community
+  logo: /images/sections/projects/scikit-learn-logo-notext.png
+  role: Creator, Contributor
+  timeline: "Des 2020 - Present"
+  repo: https://github.com/mehrdad-dev/scikit-learn # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://sklearn.ir"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Translate, create content and Create Persian community of Scikit-learn
+  tags: ["open-sourse", "machine-learning"]
+
+- name: Stanford Machine Learning Course in Persian
+  logo: /images/sections/projects/brain.png
+  role: Creator, Contributor
+  timeline: "Sep 2020 - Jan 2021"
+  repo: https://github.com/mehrdad-dev/ml-andrew-ng-code
+  url: "https://mehrdad-dev.ir/ml-andrew-ng"
+  summary: Translating Stanford University Machine Learning Course To Persian
+  tags: ["open-sourse", "machine-learning"]
+
+# - name: A sample academic paper
+#   role: Team Lead
+#   timeline: "Jan 2017 - Nov 2017"
+#   url: "https://www.example.com"
+#   summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
+#   tags: ["academic","iot"]
+
+- name: Jami
+  logo: /images/sections/projects/jami.png
+  role: Creator, Contributor
+  timeline: "Apr 2020"
+  repo: https://github.com/mehrdad-dev/Jami
+  #url: ""
+  summary: Jami is a simple cross platform GUI for play some musical instrument 
+  tags: ["Golang", "open-sourse", "hobby"] 
