@@ -39,13 +39,6 @@ projects:
   summary: Translating Stanford University Machine Learning Course To Persian
   tags: ["open-sourse", "machine-learning"]
 
-# - name: A sample academic paper
-#   role: Team Lead
-#   timeline: "Jan 2017 - Nov 2017"
-#   url: "https://www.example.com"
-#   summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-#   tags: ["academic","iot"]
-
 - name: Jami
   logo: /images/sections/projects/jami.png
   role: Creator, Contributor
@@ -54,3 +47,24 @@ projects:
   #url: ""
   summary: Jami is a simple cross platform GUI for play some musical instrument 
   tags: ["Golang", "open-sourse", "hobby"] 
+
+
+- name: CenterNet Fixed For Google Colab
+  logo: /images/sections/projects/centernet-in-colab.png
+  role: Creator, Contributor
+  timeline: "Sep 2021"
+  # repo:
+  url: "https://mehrdad-dev.ir/CenterNet-Fixed-For-Colab/"
+  summary: 🛠 CenterNet Fixed For Google Colab
+  tags: ["machine-learning", "open-sourse"] 
+
+
+
+
+
+# - name: A sample academic paper
+#   role: Team Lead
+#   timeline: "Jan 2017 - Nov 2017"
+#   url: "https://www.example.com"
+#   summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
+#   tags: ["academic","iot"]
