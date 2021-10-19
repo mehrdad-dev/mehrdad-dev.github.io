@@ -30,7 +30,7 @@ degrees:
 
 - name: Bachelor in Computer Engineering
   icon: fa-graduation-cap
-  timeframe: 2018
+  timeframe: 2018 - present
   institution:
     name: Azad University, Mashhad branch
     url: "http://mshdiau.ac.ir/"
@@ -72,7 +72,7 @@ degrees:
     - name: Data structures 
       achieved: 15
       outOf: 20   
-    - name: Design of algorithms
+    - name: Algorithm design and analysis
       achieved: 18
       outOf: 20   
     - name: Computer architecture
@@ -84,9 +84,43 @@ degrees:
   # publications: #(optional)
   # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   #   url: "#"
-  extracurricularActivities: #(optional)
-  - Main member of the Scientific Association of the Computer Department (CSAIAUM)
-  - Teaching at Computer Science Association Events
+  # extracurricularActivities: #(optional)
+  # - Main member of the Scientific Association of the Computer Department (CSAIAUM) <pre>
+  #  Holding webinars and training courses
+  #  Email Magazine Management Github pages Managment </pre>
+  # - Teaching at Computer Science Association Events
+
+
+- name: Teacher Assistant
+  icon: fa-graduation-cap
+  timeframe: oct 2021 - present
+  institution:
+    name: Azad University, Mashhad branch
+    url: "http://mshdiau.ac.ir/"
+  extracurricularActivities: 
+  - courses ->  Principles of compiler design, Database
+  - prof ->  Dr. Ghamarnaz Tadayon
+
+
+
+- name: Main member of the Scientific Association of the Computer Department (CSAIAUM) 
+  icon: fa-graduation-cap
+  timeframe: sep 2021 - present
+  institution:
+    name: Azad University, Mashhad branch
+    url: "http://mshdiau.ac.ir/"
+  extracurricularActivities: 
+  - Ordinary member of the Scientific Association of the Computer Department (CSAIAUM) | jul  2021 – Sep 2021 3 mos
+  - Holding webinars and training courses
+  - Email Magazine Management
+  - Github pages Managment
+
+
+
+
+
+
+
 
 - name: Mathematics and physics diploma
   icon: fa-university
