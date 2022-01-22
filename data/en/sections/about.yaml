@@ -26,7 +26,7 @@ I like and try to develop everything around me as much as I can!
 
 researchInterests: 
   name: Research Interests
-  decs: "<p> - Machine Learning <br/> - Deep Learning <br/> - Computer Vision <br/>- Data Science</p>" 
+  decs: "<p> - Computer Vision <br/> - Data Science <br/> - Deep Learning <br/>- Machine Learning</p>" 
 
 
 # your social links
@@ -39,6 +39,12 @@ socialLinks:
 - name: Github
   icon: "fab fa-github"
   url: "https://www.github.com/mehrdad-dev"
+
+
+- name: ReasearchGate
+  icon: "fab fa-researchgate"
+  url: "https://www.researchgate.net/profile/Mehrdad-Mohammadian-3"
+
 
 # - name: Stackoverflow
 #   icon: "fab fa-stack-overflow"
