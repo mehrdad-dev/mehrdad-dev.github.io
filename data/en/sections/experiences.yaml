@@ -47,10 +47,10 @@ experiences:
   positions:
   - designation: Computer Vision Intern
     start: Aug 2021
-    # end: Mar 2020
+    end: Sep 2021
     responsibilities:
     -  Research in object detection networks such as YOLO, SSD, CenterNet
-    - Tools Python, Colab
+    - Tools Python, Tensorflow,  Colab
 
 
 # - company:
