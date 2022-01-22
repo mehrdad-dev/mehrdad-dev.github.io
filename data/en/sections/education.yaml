@@ -54,6 +54,9 @@ degrees:
     - name: Principles of compiler design
       achieved: 20
       outOf: 20
+    - name: Sowftware Engineering
+      achieved: 20
+      outOf: 20      
     - name: Operating systems
       achieved: 20
       outOf: 20
@@ -91,15 +94,15 @@ degrees:
   # - Teaching at Computer Science Association Events
 
 
-- name: Teacher Assistant
-  icon: fa-graduation-cap
-  timeframe: oct 2021 - present
-  institution:
-    name: Azad University, Mashhad branch
-    url: "http://mshdiau.ac.ir/"
-  extracurricularActivities: 
-  - courses ->  Principles of compiler design, Database
-  - prof ->  Dr. Ghamarnaz Tadayon
+# - name: Teacher Assistant
+#   icon: fa-graduation-cap
+#   timeframe: oct 2021 - present
+#   institution:
+#     name: Azad University, Mashhad branch
+#     url: "http://mshdiau.ac.ir/"
+#   extracurricularActivities: 
+#   - courses -> Database
+#   - prof ->  Dr. Ghamarnaz Tadayon
 
 
 
@@ -110,7 +113,7 @@ degrees:
     name: Azad University, Mashhad branch
     url: "http://mshdiau.ac.ir/"
   extracurricularActivities: 
-  - Ordinary member of the Scientific Association of the Computer Department (CSAIAUM) | jul  2021 – Sep 2021 3 mos
+  - Ordinary member of the Scientific Association of the Computer Department (CSAIAUM) | jul  2021 – Sep 2021 (3 mos)
   - Holding webinars and training courses
   - Email Magazine Management
   - Github pages Managment
