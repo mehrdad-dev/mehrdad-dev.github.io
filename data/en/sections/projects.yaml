@@ -45,7 +45,7 @@ projects:
   timeline: "Apr 2020"
   repo: https://github.com/mehrdad-dev/Jami
   #url: ""
-  summary: Jami is a simple cross platform GUI for play some musical instrument 
+  summary: Jami is a simple cross platform GUI for play some musical instrument!
   tags: ["Golang", "open-sourse", "hobby"] 
 
 
@@ -59,7 +59,14 @@ projects:
   tags: ["machine-learning", "open-sourse"] 
 
 
-
+- name: Web Mining and Social Networking Course
+  logo: /images/sections/projects/doc.png
+  role: Student
+  timeline: "Fall 2021"
+  # repo: 
+  url: "https://mehrdad-dev.ir/webmining-course-fall2021/"
+  summary: web mining course - Fall 2021 (Islamic Azad University, Mashhad)
+  tags: ["academic"] 
 
 
 # - name: A sample academic paper
