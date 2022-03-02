@@ -10,7 +10,7 @@ menu:
     weight: 1
 # hero: images/sections/achievements/cert.jpg
 tags: ["Certifications"]
-categories: ["gallary"]
+categories: ["certifications"]
 ---
 
 
