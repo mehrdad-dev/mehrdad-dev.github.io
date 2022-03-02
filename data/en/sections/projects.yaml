@@ -48,25 +48,46 @@ projects:
   summary: Jami is a simple cross platform GUI for play some musical instrument!
   tags: ["Golang", "open-sourse", "hobby"] 
 
+- name: Anxiety Prediction using Deep Learning
+  logo: /images/sections/projects/anx-pre.png
+  role: Creator, Contributor
+  timeline: "Sep 2021"
+  repo: https://github.com/mehrdad-dev/anxiety-predict
+  summary: Based on Taylor Manifest Anxiety Scale + Responsive WebApp
+  tags: ["machine-learning", "cnn", "open-sourse"] 
 
 - name: CenterNet Fixed For Google Colab
   logo: /images/sections/projects/centernet-in-colab.png
   role: Creator, Contributor
   timeline: "Sep 2021"
   repo: https://github.com/mehrdad-dev/CenterNet-Fixed-For-Colab/
-  # url: "https://mehrdad-dev.ir/CenterNet-Fixed-For-Colab/"
   summary: 🛠 CenterNet Fixed For Google Colab
   tags: ["machine-learning", "open-sourse"] 
+
+- name: Portrait Painting Recommendation System using Deep Learning
+  logo: /images/sections/projects/ppr.jpg
+  role: Creator, Contributor
+  timeline: "Jan 2022"
+  repo: https://github.com/mehrdad-dev/Portrait-Painting-Recommendation
+  summary: Using MobileNet & WitkiArt Dataset + Responsive WebApp
+  tags: ["machine-learning", "cnn", "open-sourse"] 
 
 - name: Web Mining and Social Networking Course
   logo: /images/sections/projects/doc.png
   role: Student
   timeline: "Fall 2021"
-  # repo: 
-  url: "https://mehrdad-dev.ir/webmining-course-fall2021/"
+  repo: https://github.com/mehrdad-dev/webmining-course-fall2021
+  # url: "https://mehrdad-dev.ir/webmining-course-fall2021/"
   summary: web mining course - Fall 2021 (Islamic Azad University, Mashhad)
   tags: ["academic"] 
 
+- name: Fundamentals of computer vision course
+  logo: /images/sections/projects/doc.png
+  role: Student
+  timeline: "Fall 2021"
+  repo: https://github.com/mehrdad-dev/intro-computer-vision-course
+  summary: Fundamentals of computer vision course - Fall 2021 (Islamic Azad University, Mashhad)
+  tags: ["academic"] 
 
 # - name: A sample academic paper
 #   role: Team Lead
