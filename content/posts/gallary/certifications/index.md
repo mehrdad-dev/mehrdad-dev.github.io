@@ -13,4 +13,6 @@ tags: ["Certifications"]
 categories: ["gallary"]
 ---
 
-see my certifications
+##### Select section to see the relevent certifications.
+
+- [Rokad](https://mehrdad-dev.github.io/content/posts/gallary/certifications/rokad)
