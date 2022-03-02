@@ -6,7 +6,7 @@ menu:
   sidebar:
     name: دوره یادگیری ماشین دانشگاه استنفورد به فارسی
     identifier: ml-andrewng
-    weight: 3
+    weight: 4
 ---
 
 <div dir=rtl align="right">
