@@ -53,11 +53,10 @@ projects:
   logo: /images/sections/projects/centernet-in-colab.png
   role: Creator, Contributor
   timeline: "Sep 2021"
-  # repo:
-  url: "https://mehrdad-dev.ir/CenterNet-Fixed-For-Colab/"
+  repo: https://github.com/mehrdad-dev/CenterNet-Fixed-For-Colab/
+  # url: "https://mehrdad-dev.ir/CenterNet-Fixed-For-Colab/"
   summary: 🛠 CenterNet Fixed For Google Colab
   tags: ["machine-learning", "open-sourse"] 
-
 
 - name: Web Mining and Social Networking Course
   logo: /images/sections/projects/doc.png
