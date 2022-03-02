@@ -4,5 +4,5 @@ menu:
   sidebar:
     name: Dgraph | دی‌گرف
     identifier: dgraph
-    weight: 2
+    weight: 3
 ---
