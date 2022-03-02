@@ -1,6 +1,6 @@
 ---
 title: "Rokad"
-date: 2022-03-02T08:06:25+06:00
+# date: 2022-03-02T08:06:25+06:00
 description: Rokad Certifications.
 menu:
   sidebar:
@@ -12,6 +12,7 @@ menu:
 tags: ["Certifications"]
 categories: ["gallary"]
 ---
+
 
 ![Rokad](rokad3.jpg)
 
