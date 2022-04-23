@@ -20,13 +20,13 @@ resume: "files/resume.pdf"
 # a summary about you
 summary: "
 Hi, I am currently a bachelor's degree student in computer engineering.
-I love AI, art and music. For now I'm trying to be a machine learning engineer in the future.
+I love AI, art, and music. For now, I'm trying to be a machine learning engineer in the future.
 I like and try to develop everything around me as much as I can!
 "
 
 researchInterests: 
   name: Research Interests
-  decs: "<p> - Computer Vision <br/> - Data Science <br/> - Deep Learning <br/>- Machine Learning</p>" 
+  decs: "<p> - Computer Vision <br/> - Deep Learning  <br/> - Machine Learning  <br/>  - Natural Language Processing  <br/> - Data Science</p>" 
 
 
 # your social links
