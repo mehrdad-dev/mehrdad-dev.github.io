@@ -19,5 +19,7 @@ List of workshops and webinars that I held in the university.
 - [Introduction to Open-Source and GitHub](github.pdf)
 - [Tips & guides for new students of the computer engineering department](newcomers.pdf)
 - [Introduction to software 2.0](software2.0.pdf)
+- [Introduction to using cloud services for ML/DL projects webinar](gpu.pdf)
+
 ### Workshops
 - [How to build website using GitHub Pages (Git, Jekyll, Hugo)](git-merged.pdf)
