@@ -9,6 +9,7 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true 
 
+# Your experiences
 - company:
     name: Shenasa.ai
     url: "http://shenasa.ai/"
@@ -64,9 +65,6 @@ experiences:
     responsibilities:
     - Website maintenance and admin
     - Content Creator - Blog, PhotoShop, Wordpress
-
-
-
 
 # - company:
 #     name: Intern Counting Company (ICC).
