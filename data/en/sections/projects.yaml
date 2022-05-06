@@ -89,6 +89,15 @@ projects:
   summary: Fundamentals of computer vision course - Fall 2021 (Islamic Azad University, Mashhad)
   tags: ["academic"] 
 
+- name: Vision Kit
+  logo: /images/sections/projects/doc.png
+  role: Creator, Contributor
+  timeline: "Apr 2022"
+  repo: https://github.com/mehrdad-dev/vision-kit
+  summary: Useful tools for your computer vision projects with TensorFlow
+  tags: ["machine-learning", "cnn", "open-sourse"] 
+
+
 # - name: A sample academic paper
 #   role: Team Lead
 #   timeline: "Jan 2017 - Nov 2017"
