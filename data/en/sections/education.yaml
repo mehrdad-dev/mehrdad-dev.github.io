@@ -48,6 +48,9 @@ degrees:
     - name: Fundamentals of Computational Intelligence
       achieved: 20
       outOf: 20
+    - name: Fundamentals of computer vision
+      achieved: 20
+      outOf: 20      
     - name: Database
       achieved: 20
       outOf: 20
@@ -60,7 +63,7 @@ degrees:
     - name: Operating systems
       achieved: 20
       outOf: 20
-    - name: Computer design of digital systems
+    - name: Designing digital computer systems
       achieved: 20
       outOf: 20
     - name: Systems analysis and design
@@ -69,7 +72,7 @@ degrees:
     - name: General Mathematics 2
       achieved: 18.25
       outOf: 20 
-    - name: Engineering Mathematics
+    - name: Engineering Probabilities and Statistics
       achieved: 18.50
       outOf: 20 
     - name: Data structures 
@@ -83,7 +86,31 @@ degrees:
       outOf: 20    
     - name: Microprocessor and assembly language
       achieved: 18.75
-      outOf: 20                                          
+      outOf: 20              
+    - name: Comuter Networks
+      achieved: 20
+      outOf: 20     
+    - name: Electerical circuits
+      achieved: 18.5
+      outOf: 20     
+    - name: Fundementals of information retrieval and web searching
+      achieved: 20
+      outOf: 20      
+    - name: Programming language desing
+      achieved: 20
+      outOf: 20    
+    - name: Microprocessor laboratory
+      achieved: 20
+      outOf: 20     
+    - name: Oprating systems laboratory
+      achieved: 19.5
+      outOf: 20             
+    - name: Internship
+      achieved: 20
+      outOf: 20         
+    - name: Software project
+      achieved: 20
+      outOf: 20                                                  
   # publications: #(optional)
   # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   #   url: "#"
