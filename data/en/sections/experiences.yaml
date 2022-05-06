@@ -10,6 +10,7 @@ section:
   # hideTitle: true 
 
 # Your experiences
+experiences:
 - company:
     name: Shenasa.ai
     url: "http://shenasa.ai/"
@@ -52,11 +53,11 @@ section:
     - Implement and design micoservice
     - Working with Tools such as Golang, Python, Mongo DB, Elastic Search DB, Web Scraping, Docker, Linux, Git
 
-experiences:
 - company:
     name: Kimiya industry
     url: "http://kimiyaindustry.com/"
     location: Iran - Mashhad
+    # company overview
     overview: Manufacturer of traffic signs and municipal services
   positions:
   - designation: Computer Technician
