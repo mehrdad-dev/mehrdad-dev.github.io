@@ -53,6 +53,23 @@ experiences:
     - Tools Python, Tensorflow,  Colab
 
 
+- company:
+    name: Shenasa.ai
+    url: "http://shenasa.ai/"
+    location: Iran - Tehran (romote)
+    # company overview
+    overview: Shenasa.ai is a tech company that applys Artificial Intelligence and Machine Learning to solve real-world problems.
+  positions:
+  - designation: Deep Learning Researcher
+    start: Mar 2022
+    end: Now
+    responsibilities:
+    - Research on keyword extraction methods (NLP)
+    - Tools Python, Tensorflow, Fast Text, Colab
+
+
+
+
 # - company:
 #     name: Intern Counting Company (ICC).
 #     url: "https://www.example.com"
