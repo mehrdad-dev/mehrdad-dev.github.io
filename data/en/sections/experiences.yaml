@@ -9,34 +9,19 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true 
 
-# Your experiences
-experiences:
 - company:
-    name: Kimiya industry
-    url: "http://kimiyaindustry.com/"
-    location: Iran - Mashhad
-    overview: Manufacturer of traffic signs and municipal services
-  positions:
-  - designation: Computer Technician
-    start: Sep 2018
-    end: Apr 2019
-    responsibilities:
-    - Website maintenance and admin
-    - Content Creator - Blog, PhotoShop, Wordpress
-
-- company:
-    name: Profile.ir
-    url: "https://profile.ir"
-    location: Iran - Mashhad
+    name: Shenasa.ai
+    url: "http://shenasa.ai/"
+    location: Iran - Tehran (romote)
     # company overview
-    overview: Profile.ir social network, a Social network for Iranian professionals. </br> Implementation of infrastructure services using micro-service architecture,
+    overview: Shenasa.ai is a tech company that applys Artificial Intelligence and Machine Learning to solve real-world problems.
   positions:
-  - designation: Junior Backend Developer
-    start: Apr 2019
-    end: Mar 2020
+  - designation: Deep Learning Researcher
+    start: Mar 2022
+    end: Now
     responsibilities:
-    - Implement and design micoservice
-    - Working with Tools such as Golang, Python, Mongo DB, Elastic Search DB, Web Scraping, Docker, Linux, Git
+    - Research on keyword extraction methods (NLP)
+    - Tools Python, Tensorflow, Fast Text, Colab
 
 - company:
     name: Veerasense
@@ -52,20 +37,33 @@ experiences:
     -  Research in object detection networks such as YOLO, SSD, CenterNet
     - Tools Python, Tensorflow,  Colab
 
-
 - company:
-    name: Shenasa.ai
-    url: "http://shenasa.ai/"
-    location: Iran - Tehran (romote)
+    name: Profile.ir
+    url: "https://profile.ir"
+    location: Iran - Mashhad
     # company overview
-    overview: Shenasa.ai is a tech company that applys Artificial Intelligence and Machine Learning to solve real-world problems.
+    overview: Profile.ir social network, a Social network for Iranian professionals. </br> Implementation of infrastructure services using micro-service architecture,
   positions:
-  - designation: Deep Learning Researcher
-    start: Mar 2022
-    end: Now
+  - designation: Junior Backend Developer
+    start: Apr 2019
+    end: Mar 2020
     responsibilities:
-    - Research on keyword extraction methods (NLP)
-    - Tools Python, Tensorflow, Fast Text, Colab
+    - Implement and design micoservice
+    - Working with Tools such as Golang, Python, Mongo DB, Elastic Search DB, Web Scraping, Docker, Linux, Git
+
+experiences:
+- company:
+    name: Kimiya industry
+    url: "http://kimiyaindustry.com/"
+    location: Iran - Mashhad
+    overview: Manufacturer of traffic signs and municipal services
+  positions:
+  - designation: Computer Technician
+    start: Sep 2018
+    end: Apr 2019
+    responsibilities:
+    - Website maintenance and admin
+    - Content Creator - Blog, PhotoShop, Wordpress
 
 
 
