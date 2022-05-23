@@ -23,3 +23,12 @@ List of workshops and webinars that I held in the university.
 
 ### Workshops
 - [How to build website using GitHub Pages (Git, Jekyll, Hugo)](git-merged.pdf)
+
+
+## University
+- [Review of keyword extraction methods (NLP)](Keyword Extraction.pdf)
+- [Introduction to Cobots](cobots.pdf)
+- [Introduction to Flex](FLEX.pdf)
+
+
+
