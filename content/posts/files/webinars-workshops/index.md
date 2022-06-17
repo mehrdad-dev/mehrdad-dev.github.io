@@ -27,8 +27,10 @@ List of workshops and webinars that I held in the university.
 
 ## University
 - [Review of keyword extraction methods (NLP)](Keyword-Extraction.pdf)
+- [Introduction to softwer 2.0](software2.0.pdf)
 - [Introduction to Cobots](cobots.pdf)
 - [Introduction to Flex](FLEX.pdf)
+
 
 
 

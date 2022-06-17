@@ -11,6 +11,11 @@ menu:
 
 <div dir=rtl align="right">
 
+
+[لینک اصلی این نوشته من در ویرگول](https://virgool.io/@mehrdad.dev/ml-andrew-ng-kf1wwayyh7sz)
+
+
+
  دوره یادگیری ماشین دانشگاه استنفورد با تدریس Andrew Ng به فارسی منتشر شد!
  
 ## درباره دوره

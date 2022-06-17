@@ -9,3 +9,10 @@ menu:
     weight: 2
 ---
 
+## Presentations
+
+![mehrdad mohammadian](./photo_2022-04-20_16-11-07.jpg)
+
+## CSAIAUM
+
+![mehrdad mohammadian](./2021-11-19.png)
