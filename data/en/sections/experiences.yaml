@@ -22,8 +22,8 @@ experiences:
     start: Mar 2022
     end: Now
     responsibilities:
-    - Research on keyword extraction methods (NLP)
-    - Tools Python, Tensorflow, Fast Text, Colab
+    - Research on keyword extraction methods (text, NLP)
+    - Tools Python, Tensorflow, Fast Text, Top2Vec, Colab
 
 - company:
     name: Veerasense
