@@ -16,3 +16,14 @@ menu:
 ## CSAIAUM
 
 ![mehrdad mohammadian](./2021-11-19.png)
+
+
+## Nature with friends
+![](./photo_2021-01-22_14-26-53.jpg)
+
+![](./photo_2020-12-12_14-11-10.jpg)
+
+![](./photo_2021-01-15_17-41-22.jpg)
+
+![](./photo_2021.jpg)
+
