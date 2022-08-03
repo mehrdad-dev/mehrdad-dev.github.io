@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<header class="post-header">
+    <h1 class="post-title">⚙️ Projects</h1>
+    <p class="post-description">List of projects I have contributed to.</p>
+  </header>
+
+
+<div class="news mt-3 p-0">
+  {% assign projects = site.projects | reverse %}
+  {% for item in projects %}  
+  <div class="row">
+    <div class="col-sm-10">
+      <h5 class="font-weight-bold">{{ item.title }}
+        <!-- <span style="color: gray; font-size: 15px;"> 
+          {{ item.date | date: "%b, %Y" }}
+        </span> -->
+      </h5>
+    </div>
+    <!-- <div class="col-sm-2 text-left text-sm-right">
+      <span class="badge danger-color-dark darken-1 font-weight-bold text-uppercase align-middle date ml-3">
+        {{ item.date | date: "%b, %Y" }}
+      </span>
+    </div> -->
+  </div>
+  <h6>
+    <span class="badge font-weight-bold text-uppercase" style="margin-bottom: 10px; background-color: rgb(16, 103, 202);">
+      {{ item.date | date: "%b, %Y" }}
+    </span>
+    &nbsp; &nbsp;
+    <a href="{{ item.projurl }}" target="_blank">Go to the project</a>
+  </h6>
+  <p align="justify">{{ item.content }}</p>
+  <hr>
+
+  {% endfor %}
+
+</div>
