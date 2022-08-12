@@ -9,7 +9,9 @@ children:
     - title: 📸 Gallery
       permalink: /gallery/
     - title: 📂 Files
-      permalink: /files/      
+      permalink: /files/    
+    - title: 📄 Certificates
+      permalink: /certificates/          
 nav: true
 nav_order: 6
 importance: 6
