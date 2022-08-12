@@ -8,6 +8,8 @@ children:
     - title: divider
     - title: 📸 Gallery
       permalink: /gallery/
+    - title: 📂 Files
+      permalink: /files/      
 nav: true
 nav_order: 6
 importance: 6
