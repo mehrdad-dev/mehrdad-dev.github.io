@@ -168,6 +168,7 @@ plugins:
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll/scholar
+  - jekyll-seo-tag  
   - jekyll-sitemap
   - jekyll-target-blank
   - jekyll-twitter-plugin
