@@ -9,15 +9,14 @@ nav: false
 
 
 ## University Rank
-English translation will be avaiable ... 
-
-
+(Please ask me for access)
 
 ## Scientific Association (CSAIAUM)
-English translation will be avaiable ... 
+(Watermark added)
+
 <div class="row mt-3" style='width:550px'>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/certificates/csaiaum.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/certificates/CSAIAUM-membership.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
