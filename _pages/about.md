@@ -24,10 +24,11 @@ social: true  # includes social icons at the bottom of the page
 An undergraduate computer engineering student interested in deep learning and machine learning. Currently, I work as a Deep Learning Researcher at Shenasa.ai company. Machine learning seems like magic (I love magic!). I try to develop anything around me as much as I can, so let's develop!
 
 <p style='font-weight:bold; margin-bottom: 5px; font-size: 20px'> General Research Interests:</p>
-As it is obvious, I'm an undergraduate student, so I am keen on working on new ideas, areas, and skills to combine with my prior knowledge. But here, you can see my general research interests:
+I am entusiastic about working on new ideas, areas, and skills to combine with my prior knowledge. here, you can see my general research interests:
 
 - Deep Learning, Machine Learning
 - Computer Vision
+- Generative Adversarial Networks
 - Natural Language Processing
 - AI applications in healthcare, cybersecurity, ...
 - Data Science
