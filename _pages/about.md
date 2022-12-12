@@ -21,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-An undergraduate computer engineering student interested in deep learning and machine learning. Recently, I was working as a Deep Learning Researcher at Shenasa.ai company. Machine learning seems like magic to me. I try to develop anything around me as much as I can, so let's develop!
+An undergraduate computer engineering student interested in deep learning and machine learning. Recently, I was working as a Deep Learning Researcher at Shenasa.ai company. Machine learning seems like magic to me. I try to develop anything around me as much as I can, so let's develop! 
 
 <p style='font-weight:bold; margin-bottom: 5px; font-size: 20px'> General Research Interests:</p>
 I am entusiastic about working on new ideas, areas, and skills to combine with my prior knowledge. here, you can see my general research interests:
