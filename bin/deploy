@@ -96,6 +96,8 @@ export JEKYLL_ENV=production
 
 bundle add webrick
 
+bundle update
+
 # Build site
 bundle exec jekyll build --trace
 
