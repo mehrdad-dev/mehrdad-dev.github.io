@@ -6,7 +6,7 @@ projurl: https://github.com/mehrdad-dev/makeup-lab
 inline: true
 ---
 
-Makeup with Deep Learning, Apply different hair/lipstick color on your face! - [WebApp](https://mehrdad-dev-makeup-lab-app-2r88a0.streamlitapp.com/)
+Makeup with Deep Learning, Apply different hair/lipstick color on your face!
 
 - CNN architecture: U-Net
 - Dataset:  CelebAMask-HQ
