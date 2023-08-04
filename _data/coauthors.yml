@@ -2,7 +2,7 @@
   - firstname: ["Mehrdad", "Mehrdad Mohammadian"]
     url: https://scholar.google.com/citations?user=oVnfWYQAAAAJ&hl=en
 "Maleki":
-  - firstname: ["Neda", " Neda Maleki"]
+  - firstname: ["Neda", "Neda Maleki"]
     url: https://scholar.google.com/citations?user=X_-pSR8AAAAJ&hl=en
 
 "Olsson":
@@ -12,3 +12,7 @@
 "Ahlgren": 
   - firstname: ["Fredrik", "Fredrik Ahlgren"]
     url: https://scholar.google.se/citations?user=3MOyQzsAAAAJ&hl=sv
+
+"Borji": 
+- firstname: ["Ali", "Ali Borji"]
+  url: https://scholar.google.com/citations?user=7jTNT1IAAAAJ&hl=en
