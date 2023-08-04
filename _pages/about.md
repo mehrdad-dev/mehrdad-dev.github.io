@@ -24,8 +24,8 @@ social: true  # includes social icons at the bottom of the page
 An undergraduate computer engineering student who is interested in doing research in deep learning and has already published two papers on it. My academic background has equipped me with the technical skills and knowledge necessary to do research in computer science.  I have also gained valuable industry experience, which has provided me with a unique perspective on the challenges facing the field.
 
 <p style='font-weight:bold; margin-bottom: 5px; font-size: 20px'> General Research Interests:</p>
-I am enthusiastic to work on new areas and lean new skills. Here, you can find my general research interests:
-- AI applications, Deep Learning, Maching Learning
+I am enthusiastic to work on new areas and learn new skills. Here, you can find my general research interests:
+- AI applications, Deep Learning, Machine Learning
 - Natural Language Processing
 - Computer Vision
 - Data Science
