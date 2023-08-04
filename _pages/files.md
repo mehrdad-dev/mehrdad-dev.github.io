@@ -17,6 +17,6 @@ nav: false
 
 ## University
 - [Review of keyword extraction methods (NLP)](../assets/files/Keyword-Extraction.pdf)
-- [Introduction to softwer 2.0](../assets/files/Keyword-Extraction.pdf)
+- [Introduction to software 2.0](../assets/files/software2.0.pdf)
 - [Introduction to Cobots](../assets/files/cobots.pdf)
 - [Introduction to Flex](../assets/files/FLEX.pdf)

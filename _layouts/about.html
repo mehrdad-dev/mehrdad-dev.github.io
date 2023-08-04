@@ -66,15 +66,15 @@ layout: default
           </style>
           <div class="clearfix" align='justify'>
             {{ content }}
-            <a href="#">
+            <!-- <a href="#">
               <button type="button" disabled class="button button1" style="margin-bottom: 50px;"> Download My CV </button>
             </a>
-            <p style="margin-top: -50px;margin-bottom: 30px;color: gray;">Please send me a request to access my CV!</p>
+            <p style="margin-top: -50px;margin-bottom: 30px;color: gray;">Please send me a request to access my CV!</p> -->
           </div>
 
-          <div style="margin-bottom: 40px; margin-top: -10px;;">
+          <div style="margin-bottom: 40px; margin-top: 20px;;">
             <p style="font-weight: bold; font-size: 20px"> More about me? </p>
-            <p style="margin-top: -17px;">Go through the website sections:</p>
+            <!-- <p style="margin-top: -17px;">Go through the website sections:</p> -->
             <ul>
               <li> <a href="https://mehrdad-dev.github.io/scores/">Scores of related university courses</a></li>
               <li> <a href="https://mehrdad-dev.github.io/opinions/">Other people's opinion about me</a></li>
@@ -86,12 +86,6 @@ layout: default
 
           {% if page.interests -%}
           {%- include interests.html %}
-          {%- endif %}
-
-
-          {% if page.news -%}
-          <!-- News -->
-          {%- include news.html %}
           {%- endif %}
 
           {% if page.selected_papers -%}
