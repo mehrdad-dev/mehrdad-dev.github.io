@@ -17,9 +17,6 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
-    gem "nokogiri"
-    gem "uri", "0.12.2"
-	gem "open-uri"
 end
 group :other_plugins do
     gem 'httparty'

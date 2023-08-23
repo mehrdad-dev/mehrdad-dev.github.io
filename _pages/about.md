@@ -32,7 +32,7 @@ I am enthusiastic to work on new areas and learn new skills. Here, you can find 
 
 
 <p style='font-weight:bold; margin-bottom: 5px; font-size: 20px'> Google Scholar Metrics:</p>
-* Citations: {{ site.data.scholar.citations }}
-* h-index: {{ site.data.scholar.h_index }}
+* Citations: 1
+* h-index: 1
 
 <!-- Specific: Image Segmentation, Face anti-spoofing -->
