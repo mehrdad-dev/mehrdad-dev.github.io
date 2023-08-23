@@ -30,4 +30,9 @@ I am enthusiastic to work on new areas and learn new skills. Here, you can find 
 - Computer Vision
 - Data Science
 
+
+<p style='font-weight:bold; margin-bottom: 5px; font-size: 20px'> Google Scholar Metrics:</p>
+* Citations: {{ site.data.scholar.citations }}
+* h-index: {{ site.data.scholar.h_index }}
+
 <!-- Specific: Image Segmentation, Face anti-spoofing -->
