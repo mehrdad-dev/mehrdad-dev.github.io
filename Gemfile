@@ -18,7 +18,7 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
     gem "nokogiri"
-    gem "uri"
+    gem "uri", "0.12.2"
 	gem "open-uri"
 end
 group :other_plugins do
