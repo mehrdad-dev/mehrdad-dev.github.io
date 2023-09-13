@@ -1,56 +1,33 @@
-<!--           
-          <div class="news">
-            <h2>📰 News</h2>
-            {% if site.news != blank -%} 
-            {%- assign news_size = site.news | size -%}
-            <div class="table-responsive" {% if site.news_scrollable and news_size > 3 %}style="max-height: 14vw"{% endif %}>
-              <table class="table table-sm table-borderless">
-              {%- assign news = site.news | reverse -%}
-              {% if site.news_limit %}
-              {% assign news_limit = site.news_limit %}
-              {% else %}
-              {% assign news_limit = news_size %}
-              {% endif %}
-              {% for item in news limit: news_limit %}
-                <tr>
-                  <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
-                  <td>
-                    {% if item.inline -%} 
-                      {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
-                    {%- else -%} 
-                      <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-                    {%- endif %} 
-                  </td>
-                </tr>
-              {%- endfor %} 
-              </table>
-              <a target="_self" href="https://mehrdad-dev.github.io/news/" text-decoration: underline>🕰️ view all news ...</a>
-            </div>
-          {%- else -%} 
-            <p>No news so far...</p>
-          {%- endif %} 
-          </div> -->
+
 <div class="news">
-          <h3>📰 News</h3>  
-          {%- assign news_size = site.news | size -%}
-          <div class="table-responsive" {% if site.news_scrollable%}style="max-height: 16vw"{% endif %}>
-            <table class="table table-sm table-borderless">            
-          <!-- <div class="news mt-3 p-0"> -->
-            {% assign news = site.news | reverse %}
-            {% for item in news %}
-              <div class="row p-0" >
-                <div class="col-sm-2 p-0">
-                  <span class="badge font-weight-bold text-uppercase align-middle date ml-3" style="background-color: rgb(16, 105, 207);">
-                    {{ item.date | date: "%b %-d, %Y" }}
-                  </span>
-                </div>
-                <div class="col-sm-10 mt-2 mt-sm-0 ml-3 ml-md-0 p-0 font-weight-light text">
-                  <p>{{ item.content | remove: '<p>' | remove: '</p>' | emojify }}</p>
-                </div>
-              </div>
-            {% endfor %}
-          </table>
-          <!-- <a target="_self" href="https://mehrdad-dev.github.io/news/" text-decoration: underline>🕰️ view all news ...</a> -->
-          <!-- </div> -->
-          </div>
-</div>          
+    <h2>📰 Recent news</h2>
+    {% if site.news != blank -%} 
+    {%- assign news_size = site.news | size -%}
+    <div class="table-responsive" {% if site.news_scrollable and news_size > 3 %}style="max-height: 14vw"{% endif %}>
+      <table class="table table-sm table-borderless">
+      {%- assign news = site.news | reverse -%}
+      {% if site.news_limit %}
+      {% assign news_limit = site.news_limit %}
+      {% else %}
+      {% assign news_limit = news_size %}
+      {% endif %}
+      {% for item in news limit: news_limit %}
+        <tr>
+          <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+          <td>
+            {% if item.inline -%} 
+              {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+            {%- else -%} 
+              <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+            {%- endif %} 
+          </td>
+        </tr>
+      {%- endfor %} 
+      </table>
+      <!-- <a target="_self" href="https://mehrdad-dev.github.io/news/" text-decoration: underline>🕰️ view all news ...</a> -->
+    </div>
+  {%- else -%} 
+    <p>No news so far...</p>
+  {%- endif %} 
+</div> 
+     
