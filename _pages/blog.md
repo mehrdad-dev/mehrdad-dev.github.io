@@ -1,6 +1,6 @@
 ---
 layout: experience
-title: ✍️ Blog
+title: Blog
 permalink: /blog/
 description: mehrdad mohammadian blog
 nav: true

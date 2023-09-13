@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: 📚 Publication
-description: Publications by categories in reversed chronological order.
+title: Publication
+description: Publications by in reversed chronological order.
 years: [2023, 2022]
 nav: true
 nav_order: 2

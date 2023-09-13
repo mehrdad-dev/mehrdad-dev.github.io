@@ -1,6 +1,6 @@
 ---
 layout: contact
-title: 📞 Contact
+title: Contact
 permalink: /contact/
 description: mehrdad mohammadian contact information
 nav: true

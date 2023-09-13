@@ -1,7 +1,7 @@
 ---
 layout: opinions
 permalink: /opinions/
-title: 💬 opinions
+title: 💬 Opinions
 description: Other people's opinion about me
 nav: false
 # nav_order: 3
