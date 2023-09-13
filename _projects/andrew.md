@@ -7,4 +7,4 @@ inline: true
 category: ml
 ---
 
-Published notes and translated contents while completing this course.
+Published notes and translated the content while completing this course.

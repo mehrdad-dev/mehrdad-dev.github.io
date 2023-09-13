@@ -7,6 +7,7 @@ inline: true
 category:  cv
 ---
 A recommendation system for images (specifically painted portraits), for Web Mining and Social Networking Course.
+
 - Architecture: MobileNet
 - Framework: TensorFlow
 

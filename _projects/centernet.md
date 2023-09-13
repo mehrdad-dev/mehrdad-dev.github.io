@@ -7,4 +7,4 @@ inline: true
 category:  cv
 ---
 
-Fixed version of the CenterNet for Google Colab
+Do you want to run CenterNet pre-trained models in Colab without bugs and make predictions? This project is a fixed version of the CenterNet specifically for Google Colab.
