@@ -71,19 +71,7 @@ layout: default
             </a>
             <p style="margin-top: -50px;margin-bottom: 30px;color: gray;">Please send me a request to access my CV!</p> -->
           </div>
-
-          <div style="margin-bottom: 40px; margin-top: 20px;;">
-            <p style="font-weight: bold; font-size: 20px"> More about me? </p>
-            <!-- <p style="margin-top: -17px;">Go through the website sections:</p> -->
-            <ul>
-              <li> <a href="https://mehrdad-dev.github.io/scores/">Scores of related university courses</a></li>
-              <li> <a href="https://mehrdad-dev.github.io/opinions/">Other people's opinion about me</a></li>
-              <li> <a href="https://mehrdad-dev.github.io/gallery/">📸 Gallery: photos about me</a></li>
-              <li> <a href="https://mehrdad-dev.github.io/files/">📂 Files: my presentations</a></li>
-              <!-- <li> <a href="https://mehrdad-dev.github.io/certificates/">📄 Certificates</a></li> -->
-            </ul>
-          </div>
-
+        
           {% if page.interests -%}
           {%- include interests.html %}
           {%- endif %}
@@ -107,4 +95,7 @@ layout: default
           {%- endif %}
         </article>
 
+        
+    {% include news.html %}
 </div>
+
