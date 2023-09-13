@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-05-16
-title: Search between the objects in a image by giving a prompt
+title: Search between the objects in an image by giving a prompt
 projurl: https://github.com/mehrdad-dev/SBO
 inline: true
 category: cv
