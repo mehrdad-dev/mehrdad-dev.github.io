@@ -24,9 +24,13 @@ Due to the high number of links, I decided to make a list of all certificates he
 - Awarded certificate for solving Harvard Puzzle Day four times -  [Apr 2023](https://certificates.cs50.io/88ea9dc1-df01-464d-b47b-e83e50879ebf.pdf?size=letter), [Apr 2022](https://certificates.cs50.io/e336e2c5-ecc1-4573-8745-60fc3ae3084b.pdf?size=letter), [Sept 2020](https://certificates.cs50.io/4e7ffb5a-ee3d-4b96-bf35-c5999699b20c.pdf?size=letter), [Apr 2020](https://certificates.cs50.io/f7f4877d-52b0-41df-8322-0e8aa1e583f4.pdf?size=a4)
 - Awarded first place in the Rokad entrepreneurship event and received a gold coin as a reward. Presented the idea of an e-learning system specifically for high school students called "Class Plus". -[certificate](https://drive.google.com/drive/folders/1MkGHIf4lyrO-kDSTfhVieS7Y1QxuKvzY?usp=sharing)
 
+
+## Volunteer Work Experience
+- Main Member of the Scientific Association (CSAIAUM) - [certificate](https://drive.google.com/file/d/1asTL4zpqeHK7jVGF-K8oD3dJD9ZRy6_d/view?usp=sharing)
+
+
 ## Rokad Event
  
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/certificates/rokad1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
