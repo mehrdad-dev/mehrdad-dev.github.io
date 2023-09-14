@@ -4,4 +4,4 @@ date: 2022-07-20
 inline: true
 ---
 
-I finished my bachelor of computer engineering!
+I have finished my bachelor's in computer engineering!

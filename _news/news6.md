@@ -5,4 +5,4 @@ inline: true
 ---
 
 
-My research paper (Persis) is accepted and published in IEEE! -  [IEEE link](https://ieeexplore.ieee.org/document/9960037)
+Research paper: “Persis: A Persian font recognition pipeline using convolutional neural networks” has been accepted and published in IEEE!
