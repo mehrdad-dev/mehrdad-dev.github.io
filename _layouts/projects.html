@@ -135,40 +135,57 @@ layout: default
     }
   </style>
 
-  <script>
-    // Get all the project titles
-    var projectTitles = document.querySelectorAll(".project-title");
 
-    // Add click event listeners to each project title
-    projectTitles.forEach(function (title) {
-      title.addEventListener("click", function () {
-        var toggleId = this.getAttribute("data-toggle-id");
-        var content = document.getElementById(toggleId);
+<script>
+  // Get all the project titles
+  var projectTitles = document.querySelectorAll(".project-title");
 
-        // Toggle the display of the content
-        if (content.style.display === "block") {
-          content.style.display = "none";
-        } else {
-          content.style.display = "block";
-        }
-      });
+  // Add click event listeners to each project title
+  projectTitles.forEach(function (title) {
+    title.addEventListener("click", function () {
+      var toggleId = this.getAttribute("data-toggle-id");
+      var content = document.getElementById(toggleId);
+
+      // Toggle the display of the content
+      if (content.style.display === "block") {
+        content.style.display = "none";
+      } else {
+        content.style.display = "block";
+      }
     });
+  });
 
-    // Function to filter projects based on category
-    function filterProjects(category) {
-      var projectElements = document.querySelectorAll(".project");
-      var separators = document.querySelectorAll(".separator");
+  // Function to close all opened project titles
+  function closeAllProjectTitles() {
+    projectTitles.forEach(function (title) {
+      var toggleId = title.getAttribute("data-toggle-id");
+      var content = document.getElementById(toggleId);
 
-      projectElements.forEach(function (element, index) {
-        if (category === "all" || element.classList.contains(category)) {
-          element.style.display = "block";
-          separators[index].style.display = "block"; // Show separator
-        } else {
-          element.style.display = "none";
-          separators[index].style.display = "none"; // Hide separator
-        }
-      });
-    }
-  </script>
+      // Close the content if it is open
+      if (content.style.display === "block") {
+        content.style.display = "none";
+      }
+    });
+  }
+
+  // Function to filter projects based on category
+  function filterProjects(category) {
+    // Close all opened project titles before filtering
+    closeAllProjectTitles();
+
+    var projectElements = document.querySelectorAll(".project");
+    var separators = document.querySelectorAll(".separator");
+
+    projectElements.forEach(function (element, index) {
+      if (category === "all" || element.classList.contains(category)) {
+        element.style.display = "block";
+        separators[index].style.display = "block"; // Show separator
+      } else {
+        element.style.display = "none";
+        separators[index].style.display = "none"; // Hide separator
+      }
+    });
+  }
+</script>
 </body>
 </html>
