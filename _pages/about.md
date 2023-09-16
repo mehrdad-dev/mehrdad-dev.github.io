@@ -31,9 +31,9 @@ I am enthusiastic to work on new areas and learn new skills. Here, you can find 
 - Data Science -->
 
 
-<p style='margin-bottom: 5px; font-size: 20px'> Google Scholar Metrics:</p>
+<!-- <p style='margin-bottom: 5px; font-size: 20px'> Google Scholar Metrics:</p>
 * Citations: 1
-* h-index: 1
+* h-index: 1 -->
 
 <!-- Specific: Image Segmentation, Face anti-spoofing -->
 
