@@ -5,6 +5,7 @@ layout: default
 <!DOCTYPE html>
 <html>
 <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Projects</title>
   <!-- Add your CSS links and JavaScript libraries here -->
   <link rel="stylesheet" href="your-styles.css">
@@ -50,6 +51,39 @@ layout: default
   </div>
 
   <style>
+/* Responsive styles for smartphones */
+@media screen and (max-width: 768px) {
+  /* Adjust font sizes */
+  .post-title {
+    font-size: 20px;
+  }
+  .project-title {
+    font-size: 18px;
+  }
+  .filter-button {
+    font-size: 14px;
+    padding: 8px 16px;
+  }
+  /* Adjust margins and padding */
+  .post-description {
+    margin-top: 10px;
+  }
+  .filter-buttons {
+    margin-bottom: 10px;
+  }
+  .github-link {
+    margin-left: 10px;
+    font-size: 15px;
+
+  }
+
+  /* Adjust separator height */
+  .separator {
+    margin: 10px 0;
+  }
+}
+
+
     /* Initially hide the content */
     .content {
       display: none;
