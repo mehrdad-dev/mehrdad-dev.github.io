@@ -186,6 +186,26 @@ layout: default
       }
     });
   }
+
+
+        function titleCase() {
+            const elements = document.querySelectorAll('.title');
+            const excludedWords = ['for', 'with', 'in', 'of', 'on', 'the', 'to', 'and', 'by', 'a', 'an'];
+
+            elements.forEach(element => {
+                const text = element.innerText;
+                const titleCasedText = text.replace(/\w\S*/g, (word) => {
+                    if (word === word.toUpperCase()) {
+                        return word; // Preserve uppercase words
+                    } else {
+                        return excludedWords.includes(word.toLowerCase()) ? word.toLowerCase() : word.charAt(0).toUpperCase() + word.substr(1).toLowerCase();
+                    }
+                });
+                element.innerText = titleCasedText;
+            });
+        }
+
+        titleCase();
 </script>
 </body>
 </html>
