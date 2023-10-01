@@ -32,6 +32,10 @@ My name is Mehrdad Mohammadian, an undergraduate computer engineering student wi
 
 Please do not hesitate to reach out to me! I am readily available and eager to connect, whether for discussions, collaborations, or any inquiries.
 
+<p style='margin-bottom: 5px; font-size: 20px; color: gray; font-style: italic;'>"Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step. ~ Lao Tzu "</p>
+
+
+
 <!-- <p style='font-weight:bold; margin-bottom: 5px; font-size: 20px'> General Research Interests:</p>
 I am enthusiastic to work on new areas and learn new skills. Here, you can find my general research interests:
 - AI applications, Deep Learning, Machine Learning
