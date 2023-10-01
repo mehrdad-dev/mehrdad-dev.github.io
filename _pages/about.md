@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: B.Sc of Computer Engineering - Doing Research!
+subtitle: B.Sc. in Computer Engineering - Doing Research!
 
 profile:
   align: right
@@ -21,7 +21,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-An undergraduate computer engineering student who is interested in doing research in deep learning and has already published two papers on it. My academic background has equipped me with the technical skills and knowledge necessary to do research in computer science.  I have also gained valuable industry experience, which has provided me with a unique perspective on the challenges facing the field.
+
+HI there! 🙋‍♂️
+
+My name is Mehrdad Mohammadian, an undergraduate computer engineering student with a strong interest in research. Throughout my undergraduate studies, I have been actively engaged in the field of Deep Learning, as evidenced by my publications and project work. Furthermore, I have gained valuable experience through positions such as Research Assistant and Deep Learning Researcher, which have provided me with a distinctive perspective on the challenges within the field.
+
+
+
+
+
+Please do not hesitate to reach out to me! I am readily available and eager to connect, whether for discussions, collaborations, or any inquiries.
 
 <!-- <p style='font-weight:bold; margin-bottom: 5px; font-size: 20px'> General Research Interests:</p>
 I am enthusiastic to work on new areas and learn new skills. Here, you can find my general research interests:
