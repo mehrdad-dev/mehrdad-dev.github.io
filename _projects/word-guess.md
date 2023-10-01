@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2021-08-02
-title: Number Guessing Game by using ATMega32, Keypad, and LCD (C, Proteus, Code Vision AVR)
+title: Number Guessing Game by using ATMega32, Keypad, and LCD
 projurl: https://github.com/mehrdad-dev/guess-game-atmega32
 inline: true
 category: etc
