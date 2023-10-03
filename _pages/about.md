@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 
 HI there! 🙋‍♂️
 
-My name is Mehrdad Mohammadian, an undergraduate computer engineering student with a strong interest in research. Throughout my undergraduate studies, I have been actively engaged in the field of Deep Learning, as evidenced by my publications and project work. Furthermore, I have gained valuable experience through positions such as Research Assistant and Deep Learning Researcher, which have provided me with a distinctive perspective on the challenges within the field.
+My name is Mehrdad Mohammadian, an undergraduate computer engineering student with a strong interest in research. Throughout my undergraduate studies, I have been actively engaged in the field of Deep Learning, as evidenced by my publications and projects. Furthermore, I have gained valuable experience through positions such as Research Assistant and Deep Learning Researcher, which have provided me with a distinctive perspective on the challenges within the field.
 
 
 
