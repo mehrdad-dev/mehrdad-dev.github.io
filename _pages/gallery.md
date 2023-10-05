@@ -37,6 +37,9 @@ Note: Click on images to see better!
         {% include figure.html path="assets/gallery/photo_2021-01-22_14-26-53.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/gallery/photo_2022-04-20_16-11-07.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>  
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/gallery/photo_2021-01-15_17-41-22.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>  
 </div>
