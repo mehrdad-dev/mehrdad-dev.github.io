@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-05-16
-title: Search between the objects in an image by giving a prompt - SBO
+title: Search Between Objects of an Image by Using Deep Learning (CLIP & YOLOv5)
 projurl: https://github.com/mehrdad-dev/SBO
 inline: true
 category: cv

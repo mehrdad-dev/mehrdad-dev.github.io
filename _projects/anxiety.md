@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2021-09-17
-title: Anxiety prediction using deep learning, based on Taylor Manifest Anxiety Scale
+title: Anxiety level prediction using deep learning, based on Taylor Manifest Anxiety Scale
 projurl: https://github.com/mehrdad-dev/anxiety-predict
 inline: true
 category: ml

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2021-06-21
-title: Web Mining and Social Networking Course
+title: Information Retrieval and Web Search Course
 projurl: https://github.com/mehrdad-dev/webmining-course-fall2021
 inline: true
 category:  etc

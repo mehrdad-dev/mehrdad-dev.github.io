@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-05-21
-title: Parkinson detection based on wave sketches and deep learning - PDS
+title: Detecting Parkinson’s Disease Using Few-Shot Learning (Prototypical Networks)
 projurl: https://github.com/mehrdad-dev/PDS
 inline: true
 category:  cv

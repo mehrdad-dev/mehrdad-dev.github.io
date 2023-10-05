@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-07-26
-title: Makeup Lab - Apply different colors to your hair! 
+title: Hair Coloring Application by Using CNNs and Image Segmentation (UNet)
 projurl: https://github.com/mehrdad-dev/makeup-lab
 inline: true
 category: cv
