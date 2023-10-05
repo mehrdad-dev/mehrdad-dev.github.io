@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-04-21
-title: Jami - a simple cross platform GUI for play some musical instrument
+title: Jami - A Cross-Platform GUI for Playing Musical Instruments
 projurl: https://github.com/mehrdad-dev/Jami
 inline: true
 category: etc
