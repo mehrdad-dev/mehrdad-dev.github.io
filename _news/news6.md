@@ -5,4 +5,4 @@ inline: true
 ---
 
 
-Research paper: “Persis: A Persian font recognition pipeline using convolutional neural networks” has been accepted and published in IEEE!
+Research paper: “Persis: A Persian Font Recognition Pipeline Using Convolutional Neural Networks” has been accepted and published in IEEE!
