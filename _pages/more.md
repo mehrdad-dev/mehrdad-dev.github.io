@@ -3,9 +3,6 @@ layout: page
 title: More
 dropdown: true
 children: 
-    - title: 💬 Opinions
-      permalink: /opinions/
-    - title: divider
     - title: 📸 Gallery
       permalink: /gallery/
     - title: 📂 Files
